@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 p{
 	max-width: 600px;
-	margin: 10px;
+	margin: 10px 10px 10px 0px;
 	padding: 15px;
 	border-left: 8px solid green;
 	font-weight:bold;
